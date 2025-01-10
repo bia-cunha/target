@@ -1,7 +1,7 @@
 # Desafio Técnico - Target
 
 ## Descrição
-Este repositório contém a solução para o desafio técnico proposto pela empresa **Targt**.
+Este repositório contém a solução para o desafio técnico proposto pela empresa **Target**.
 
 Contato
 - Autor: Bianca Cunha
